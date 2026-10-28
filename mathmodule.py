@@ -1,0 +1,11 @@
+import math
+number=int(input("Enter a number:"))
+print("Square root:",math.sqrt(number))
+print("Factorial:",math.factorial(number))
+print("Power:",math.pow(number,2))
+print("Ceiling:",math.ceil(4.3))
+print("Floor:",math.floor(4.7))
+print("GCD:",math.gcd(12,8))
+print("Absolute value:",math.fabs(-10))
+print("Value of pi:",math.pi)
+print("Value of e:",math.e)
